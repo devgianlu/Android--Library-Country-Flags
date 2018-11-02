@@ -2,36 +2,4 @@
 
 Android library containing country flag assets.
 
-## Importing into your project
-
-**Gradle**
-
-Add the following to your parent project Gradle file
-
-```
-allprojects {
-        repositories {
-           maven { url "https://dl.bintray.com/mikefot/maven/" }
-        }
-    }
-```
-
-And the following to your module Gradle file:
-
-`compile 'com.michaelfotiadis:android-country-flags:1.0.3'`
-
-**Maven**
-
-```
-<dependency>
-  <groupId>com.michaelfotiadis</groupId>
-  <artifactId>android-country-flags</artifactId>
-  <version>1.0.3</version>
-  <type>pom</type>
-</dependency>
-```
-
-**Bintray Project**
-https://bintray.com/mikefot/maven/android-country-flags
-
-[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Android%20Country%20Flags-green.svg?style=flat )]( https://android-arsenal.com/details/1/6566 )
+## This has been forked to be used in [Aria2App](https://github.com/devgianlu/Aria2App), please refer to the original repository.
